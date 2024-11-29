@@ -1,0 +1,1 @@
+# marten-scoped-subscriptions-issue
